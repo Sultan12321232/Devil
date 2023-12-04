@@ -397,10 +397,10 @@ logo="""\33[1;32m
 \33[1;32m\____/\____\\__/  \_/\____/
                            
 \33[1;32m----------------------------------------------------------------- 
-  Owner      :  Devil 
-  Facebook   :  Devil 
+  Owner      :  Tahir Ali Khosa 
+  Facebook   :  Tahir Ali Khosa 
   Github     :  Devil
-  Tool Type  :  FREE
+  Tool Type  :  Trial
   Version    :  5.9
 \33[1;32m-----------------------------------------------------------------"""
 def linex():
